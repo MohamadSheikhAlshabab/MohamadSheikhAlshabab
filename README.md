@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Rubik's cube solver
 
+![img](https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png)
