@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Rubik's cube solver
 
-![img](https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png) ![img](https://img.stackshare.io/service/1028/ASOhU5xJ.png)  ![img](https://img.stackshare.io/service/27/sBsvBbjY.png)  ![img](https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-social-logo.png)
+![img](https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png) ![img](https://img.stackshare.io/service/1028/ASOhU5xJ.png)  ![img](https://img.stackshare.io/service/27/sBsvBbjY.png)  ![img](https://getbootstrap.com/docs/4.4/assets/brand/bootstrap-social-logo_400x400.png)
 ![React](https://res.cloudinary.com/practicaldev/image/fetch/s--wCGgterD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png)
