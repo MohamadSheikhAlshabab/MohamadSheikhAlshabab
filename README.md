@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...NodeJs
 - 💬 Ask me about ...Anything 😄
 - 📫 How to reach me: ... ![img](https://camo.githubusercontent.com/4d00b21e95ad13be23cd63c527a39f04bf085b1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d547769747465722d323641304544) [Twitter](https://twitter.com/AboAhmad12320) + [instgram](https://www.instagram.com/mohammadsheikhalshabab/)
-- 💻  learning websites: [freeCodeCamp](https://www.freecodecamp.org/mohamad_sheikh_alshabab) + [soloLearn](https://www.sololearn.com/Profile/17836072)+ [soloLearn](https://www.sololearn.com/Profile/17836072)+ [soloLearn](https://www.sololearn.com/Profile/17836072)+ [soloLearn](https://www.sololearn.com/Profile/17836072)
+- 💻  learning websites: [freeCodeCamp](https://www.freecodecamp.org/mohamad_sheikh_alshabab) + [soloLearn](https://www.sololearn.com/Profile/17836072)+ [DataCamp](https://www.datacamp.com/profile/alshababmoh)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Rubik's cube solver
 
