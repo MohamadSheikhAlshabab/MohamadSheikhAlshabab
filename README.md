@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/mohammadsheikhalshabab/"><img style="max-width:100%" height="26" src="https://camo.githubusercontent.com/a01714a0e6e1028c30542858a2a8ecd4ebd8a4c8/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f7069636f6e732d736f6369616c2f35372f33382d696e7374616772616d2d322d3235362e706e67"></a>
 
 
-![img](https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png) ![img](https://img.stackshare.io/service/1028/ASOhU5xJ.png)![img](https://img.stackshare.io/service/27/sBsvBbjY.png)![dj](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWcURtAAsXBrp2p0FLCBsJn3pYTufqKqJcbiXfnObYhwBfrwn&s)
-![python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+<img style="max-width:100%" height="26" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"> <img style="max-width:100%" height="26" src="https://img.stackshare.io/service/1028/ASOhU5xJ.png"><img style="max-width:100%" height="26" src="https://img.stackshare.io/service/27/sBsvBbjY.png"><img style="max-width:100%" height="26" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWcURtAAsXBrp2p0FLCBsJn3pYTufqKqJcbiXfnObYhwBfrwn&s">
+<img style="max-width:100%" height="26" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
 ![img](https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg) 
-![React](https://res.cloudinary.com/practicaldev/image/fetch/s--wCGgterD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png)
+<img style="max-width:100%" height="26" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wCGgterD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png">
