@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 <img style="max-width:100%;display:block;margin-left:auto;margin-right:auto;width:50%;" height="50" src="https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg"> 
 <img style="max-width:100%;display:block;margin-left:auto;margin-right:auto;width:50%;" height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wCGgterD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png">
 
-
-                                                                                                                                             
-                                                                                                                                             
+                                                                                                                                        
+<pre>                                                                                                                                             
 `PPPPPPPPPPPPPPPPP                                     tttt         hhhhhhh                                                 333333333333333 ` 
 `P::::::::::::::::P                                 ttt:::t         h:::::h                                                3:::::::::::::::33 `
 `P::::::PPPPPP:::::P                                t:::::t         h:::::h                                                3::::::33333::::::3`
@@ -49,6 +48,6 @@ Here are some ideas to get you started:
                         `y:::::y`                                                                                                              
                       ` y:::::y`                                                                                                               
                      ` yyyyyyy`                                                                                                                
-                                                                                                                                             
+                                 </pre>                                                                                                            
                            `                                                                                                                  
 
