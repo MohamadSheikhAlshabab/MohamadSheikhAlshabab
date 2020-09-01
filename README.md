@@ -24,3 +24,31 @@ Here are some ideas to get you started:
 <img style="max-width:100%;display:block;margin-left:auto;margin-right:auto;width:50%;" height="50" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
 <img style="max-width:100%;display:block;margin-left:auto;margin-right:auto;width:50%;" height="50" src="https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg"> 
 <img style="max-width:100%;display:block;margin-left:auto;margin-right:auto;width:50%;" height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wCGgterD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png">
+
+
+                                                                                                                                             
+                                                                                                                                             
+PPPPPPPPPPPPPPPPP                                     tttt         hhhhhhh                                                 333333333333333   
+P::::::::::::::::P                                 ttt:::t         h:::::h                                                3:::::::::::::::33 
+P::::::PPPPPP:::::P                                t:::::t         h:::::h                                                3::::::33333::::::3
+PP:::::P     P:::::P                               t:::::t         h:::::h                                                3333333     3:::::3
+  P::::P     P:::::Pyyyyyyy           yyyyyyyttttttt:::::ttttttt    h::::h hhhhh          ooooooooooo   nnnn  nnnnnnnn                3:::::3
+  P::::P     P:::::P y:::::y         y:::::y t:::::::::::::::::t    h::::hh:::::hhh     oo:::::::::::oo n:::nn::::::::nn              3:::::3
+  P::::PPPPPP:::::P   y:::::y       y:::::y  t:::::::::::::::::t    h::::::::::::::hh  o:::::::::::::::on::::::::::::::nn     33333333:::::3 
+  P:::::::::::::PP     y:::::y     y:::::y   tttttt:::::::tttttt    h:::::::hhh::::::h o:::::ooooo:::::onn:::::::::::::::n    3:::::::::::3  
+  P::::PPPPPPPPP        y:::::y   y:::::y          t:::::t          h::::::h   h::::::ho::::o     o::::o  n:::::nnnn:::::n    33333333:::::3 
+  P::::P                 y:::::y y:::::y           t:::::t          h:::::h     h:::::ho::::o     o::::o  n::::n    n::::n            3:::::3
+  P::::P                  y:::::y:::::y            t:::::t          h:::::h     h:::::ho::::o     o::::o  n::::n    n::::n            3:::::3
+  P::::P                   y:::::::::y             t:::::t    tttttth:::::h     h:::::ho::::o     o::::o  n::::n    n::::n            3:::::3
+PP::::::PP                  y:::::::y              t::::::tttt:::::th:::::h     h:::::ho:::::ooooo:::::o  n::::n    n::::n3333333     3:::::3
+P::::::::P                   y:::::y               tt::::::::::::::th:::::h     h:::::ho:::::::::::::::o  n::::n    n::::n3::::::33333::::::3
+P::::::::P                  y:::::y                  tt:::::::::::tth:::::h     h:::::h oo:::::::::::oo   n::::n    n::::n3:::::::::::::::33 
+PPPPPPPPPP                 y:::::y                     ttttttttttt  hhhhhhh     hhhhhhh   ooooooooooo     nnnnnn    nnnnnn 333333333333333   
+                          y:::::y                                                                                                            
+                         y:::::y                                                                                                             
+                        y:::::y                                                                                                              
+                       y:::::y                                                                                                               
+                      yyyyyyy                                                                                                                
+                                                                                                                                             
+                                                                                                                                             
+
