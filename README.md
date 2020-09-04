@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
                                                                                                                                         
 <pre>                                                                                                                                             
-PPPPPPPPPPPPPPPPP                                     tttt         hhhhhhh                                           
-P::::::::::::::::P                                 ttt:::t         h:::::h                                          
+PPPPPPPPPPPPPPPPP                                     tttt         hhhhhhh                                     
+P::::::::::::::::P                                 ttt:::t         h:::::h                                  
 P::::::PPPPPP:::::P                                t:::::t         h:::::h                                           
-PP:::::P     P:::::P                               t:::::t         h:::::h                                        
+PP:::::P     P:::::P                               t:::::t         h:::::h                     
   P::::P     P:::::Pyyyyyyy           yyyyyyyttttttt:::::ttttttt    h::::h hhhhh          ooooooooooo   nnnn  nnnnnnnn
   P::::P     P:::::P y:::::y         y:::::y t:::::::::::::::::t    h::::hh:::::hhh     oo:::::::::::oo n:::nn::::::::nn
   P::::PPPPPP:::::P   y:::::y       y:::::y  t:::::::::::::::::t    h::::::::::::::hh  o:::::::::::::::on::::::::::::::nn
@@ -43,11 +43,10 @@ PP::::::PP                  y:::::::y              t::::::tttt:::::th:::::h     
 P::::::::P                   y:::::y               tt::::::::::::::th:::::h     h:::::ho:::::::::::::::o  n::::n    n::::n
 P::::::::P                  y:::::y                  tt:::::::::::tth:::::h     h:::::h oo:::::::::::oo   n::::n    n::::n
 PPPPPPPPPP                 y:::::y                     ttttttttttt  hhhhhhh     hhhhhhh   ooooooooooo     nnnnnn    nnnnnn 
-                          y:::::y                                                                                                            
-                         y:::::y                                                                                                             
-                        y:::::y                                                                                                              
-                       y:::::y                                                                                                               
-                      yyyyyyy                                                                                                                
-                                 </pre>                                                                                                            
+                          y:::::y                                                                                      
+                         y:::::y                                                         
+                        y:::::y                                                                                     
+                       y:::::y                                                                                         
+                      yyyyyyy                                                          </pre>                                                       
                            `                                                                                                                  
 
